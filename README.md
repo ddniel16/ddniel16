@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ddniel16
+- 👀 I usually do things in PHP
